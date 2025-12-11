@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+API Gateway Request,1000,248,97,3873,558.43,89.700%,71.43367,16.17,14.72,231.8
+TOTAL,1000,248,97,3873,558.43,89.700%,71.43367,16.17,14.72,231.8
